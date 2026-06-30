@@ -1,4 +1,4 @@
-[Improved_README.md](https://github.com/user-attachments/files/29497836/Improved_README.md)
+
 # 📝 Sticky Note Board
 
 A modern virtual sticky note application inspired by physical pinboards. Organize ideas, tasks, reminders, and projects with colorful notes in a clean, intuitive interface.
